@@ -1,0 +1,81 @@
+name,n_id,hosts_group,average_arrondissement_price_for_category
+Louvre,1,4-9 listing Hosts,587.74
+Louvre,1,Multi-listing Hosts,552.47
+Louvre,1,Single-listing Hosts,216.64
+Louvre,1,2-3 listing Hosts,197.23
+Bourse,2,Multi-listing Hosts,406.75
+Bourse,2,4-9 listing Hosts,341.36
+Bourse,2,2-3 listing Hosts,230.41
+Bourse,2,Single-listing Hosts,185.81
+Temple,3,Multi-listing Hosts,317.28
+Temple,3,4-9 listing Hosts,267.07
+Temple,3,2-3 listing Hosts,204.29
+Temple,3,Single-listing Hosts,180.84
+Hôtel-de-Ville,4,4-9 listing Hosts,352.89
+Hôtel-de-Ville,4,Multi-listing Hosts,292.95
+Hôtel-de-Ville,4,2-3 listing Hosts,201.38
+Hôtel-de-Ville,4,Single-listing Hosts,195.69
+Panthéon,5,Multi-listing Hosts,340.0
+Panthéon,5,4-9 listing Hosts,264.1
+Panthéon,5,2-3 listing Hosts,251.52
+Panthéon,5,Single-listing Hosts,165.07
+Luxembourg,6,Multi-listing Hosts,451.9
+Luxembourg,6,4-9 listing Hosts,424.85
+Luxembourg,6,2-3 listing Hosts,212.76
+Luxembourg,6,Single-listing Hosts,207.65
+Palais-Bourbon,7,Multi-listing Hosts,347.07
+Palais-Bourbon,7,4-9 listing Hosts,338.93
+Palais-Bourbon,7,2-3 listing Hosts,312.89
+Palais-Bourbon,7,Single-listing Hosts,204.68
+Élysée,8,Multi-listing Hosts,384.39
+Élysée,8,2-3 listing Hosts,380.56
+Élysée,8,4-9 listing Hosts,373.86
+Élysée,8,Single-listing Hosts,235.31
+Opéra,9,4-9 listing Hosts,319.93
+Opéra,9,Multi-listing Hosts,276.07
+Opéra,9,2-3 listing Hosts,249.52
+Opéra,9,Single-listing Hosts,156.25
+Entrepôt,10,Multi-listing Hosts,243.27
+Entrepôt,10,4-9 listing Hosts,227.23
+Entrepôt,10,2-3 listing Hosts,172.02
+Entrepôt,10,Single-listing Hosts,141.58
+Popincourt,11,4-9 listing Hosts,269.36
+Popincourt,11,Multi-listing Hosts,228.67
+Popincourt,11,2-3 listing Hosts,146.75
+Popincourt,11,Single-listing Hosts,128.68
+Reuilly,12,4-9 listing Hosts,246.22
+Reuilly,12,Multi-listing Hosts,162.8
+Reuilly,12,2-3 listing Hosts,143.76
+Reuilly,12,Single-listing Hosts,116.26
+Gobelins,13,Multi-listing Hosts,203.17
+Gobelins,13,4-9 listing Hosts,194.9
+Gobelins,13,2-3 listing Hosts,143.96
+Gobelins,13,Single-listing Hosts,109.02
+Observatoire,14,Multi-listing Hosts,295.17
+Observatoire,14,4-9 listing Hosts,203.18
+Observatoire,14,2-3 listing Hosts,173.55
+Observatoire,14,Single-listing Hosts,131.26
+Vaugirard,15,4-9 listing Hosts,249.92
+Vaugirard,15,Multi-listing Hosts,232.85
+Vaugirard,15,2-3 listing Hosts,214.63
+Vaugirard,15,Single-listing Hosts,143.72
+Passy,16,4-9 listing Hosts,729.56
+Passy,16,Multi-listing Hosts,568.64
+Passy,16,2-3 listing Hosts,257.65
+Passy,16,Single-listing Hosts,217.18
+Batignolles-Monceau,17,Multi-listing Hosts,355.91
+Batignolles-Monceau,17,4-9 listing Hosts,246.9
+Batignolles-Monceau,17,2-3 listing Hosts,187.18
+Batignolles-Monceau,17,Single-listing Hosts,139.9
+Buttes-Montmartre,18,4-9 listing Hosts,219.21
+Buttes-Montmartre,18,Multi-listing Hosts,160.8
+Buttes-Montmartre,18,2-3 listing Hosts,137.69
+Buttes-Montmartre,18,Single-listing Hosts,123.66
+Buttes-Chaumont,19,Multi-listing Hosts,139.13
+Buttes-Chaumont,19,Single-listing Hosts,109.79
+Buttes-Chaumont,19,2-3 listing Hosts,108.3
+Buttes-Chaumont,19,4-9 listing Hosts,104.69
+Ménilmontant,20,4-9 listing Hosts,168.87
+Ménilmontant,20,2-3 listing Hosts,114.45
+Ménilmontant,20,Single-listing Hosts,102.96
+Ménilmontant,20,Multi-listing Hosts,67.5

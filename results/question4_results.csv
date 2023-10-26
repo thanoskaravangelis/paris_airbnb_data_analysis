@@ -1,0 +1,81 @@
+listings_group,name,n_id,number_of_hosts,total_listings
+1,Buttes-Montmartre,18,5532,5532
+1,Popincourt,11,4261,4261
+1,Vaugirard,15,3304,3304
+1,Entrepôt,10,3167,3167
+1,Batignolles-Monceau,17,2891,2891
+1,Ménilmontant,20,2828,2828
+1,Buttes-Chaumont,19,2827,2827
+1,Passy,16,2092,2092
+1,Reuilly,12,1857,1857
+1,Opéra,9,1838,1838
+1,Observatoire,14,1636,1636
+1,Gobelins,13,1553,1553
+1,Temple,3,1508,1508
+1,Panthéon,5,1283,1283
+1,Hôtel-de-Ville,4,1122,1122
+1,Bourse,2,1064,1064
+1,Palais-Bourbon,7,949,949
+1,Luxembourg,6,947,947
+1,Élysée,8,846,846
+1,Louvre,1,694,694
+2-3,Buttes-Montmartre,18,264,568
+2-3,Popincourt,11,235,503
+2-3,Vaugirard,15,210,459
+2-3,Entrepôt,10,206,445
+2-3,Passy,16,191,417
+2-3,Batignolles-Monceau,17,173,375
+2-3,Buttes-Chaumont,19,148,323
+2-3,Opéra,9,145,322
+2-3,Ménilmontant,20,154,321
+2-3,Observatoire,14,133,285
+2-3,Temple,3,129,280
+2-3,Reuilly,12,121,261
+2-3,Luxembourg,6,115,260
+2-3,Gobelins,13,112,239
+2-3,Élysée,8,105,227
+2-3,Bourse,2,99,217
+2-3,Hôtel-de-Ville,4,100,214
+2-3,Panthéon,5,97,206
+2-3,Palais-Bourbon,7,91,201
+2-3,Louvre,1,65,149
+4-9,Opéra,9,67,400
+4-9,Passy,16,50,270
+4-9,Élysée,8,44,253
+4-9,Batignolles-Monceau,17,39,211
+4-9,Popincourt,11,36,202
+4-9,Buttes-Montmartre,18,33,187
+4-9,Louvre,1,34,185
+4-9,Vaugirard,15,36,184
+4-9,Luxembourg,6,34,177
+4-9,Palais-Bourbon,7,30,173
+4-9,Entrepôt,10,31,170
+4-9,Hôtel-de-Ville,4,28,168
+4-9,Bourse,2,28,167
+4-9,Temple,3,30,158
+4-9,Panthéon,5,30,156
+4-9,Ménilmontant,20,23,132
+4-9,Observatoire,14,22,117
+4-9,Reuilly,12,18,104
+4-9,Gobelins,13,20,97
+4-9,Buttes-Chaumont,19,13,80
+More than 10,Hôtel-de-Ville,4,20,1307
+More than 10,Temple,3,32,1157
+More than 10,Louvre,1,15,687
+More than 10,Bourse,2,24,674
+More than 10,Batignolles-Monceau,17,11,647
+More than 10,Panthéon,5,17,518
+More than 10,Opéra,9,15,494
+More than 10,Luxembourg,6,10,478
+More than 10,Vaugirard,15,13,457
+More than 10,Popincourt,11,18,452
+More than 10,Buttes-Montmartre,18,15,423
+More than 10,Élysée,8,18,403
+More than 10,Entrepôt,10,15,399
+More than 10,Palais-Bourbon,7,14,339
+More than 10,Buttes-Chaumont,19,8,300
+More than 10,Passy,16,11,287
+More than 10,Reuilly,12,5,265
+More than 10,Gobelins,13,6,161
+More than 10,Observatoire,14,6,96
+More than 10,Ménilmontant,20,2,57

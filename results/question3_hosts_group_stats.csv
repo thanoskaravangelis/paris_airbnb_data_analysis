@@ -1,0 +1,5 @@
+listings_group,number_of_hosts,total_listings,percentage_of_listings,percentage_of_hosts
+Single-listing Hosts,42199,42199,68.43%,91.71%
+2-3 listing Hosts,2893,6272,10.17%,6.29%
+4-9 listing Hosts,646,3591,5.82%,1.4%
+10+ listing Hosts,275,9601,15.57%,0.6%
